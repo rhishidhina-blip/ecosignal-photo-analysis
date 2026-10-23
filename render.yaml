@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: ecosignal-photo-analysis
+    runtime: docker
+    plan: 2c-4g
+    healthCheckPath: /health
+    envVars:
+      - key: ECOSIGNAL_API_TOKEN
+        generateValue: true
+      - key: ECOSIGNAL_FORCE_CPU
+        value: "1"

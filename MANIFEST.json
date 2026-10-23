@@ -1,0 +1,74 @@
+{
+  ".dockerignore": {
+    "bytes": 70,
+    "sha256": "ac913b4af18355255a74b829297ec42a44a3fbcc44e42e60176d2e0eb27911b1"
+  },
+  ".gitignore": {
+    "bytes": 46,
+    "sha256": "e12500811f5acce80bc9c5613f0444ad629aa6561e721fe490cb2f4662ac7148"
+  },
+  "Dockerfile": {
+    "bytes": 666,
+    "sha256": "d219d4f12b9a976799f2fc72f0e61260d6f810db23d9d05fea87f86e50ee0482"
+  },
+  "README.md": {
+    "bytes": 7946,
+    "sha256": "1b8126f3081674dfda4dadfdc0b3d5e10d60e6ea7570e739c329e4a7134e48e4"
+  },
+  "render.yaml": {
+    "bytes": 250,
+    "sha256": "5373c732cef0fbfc18045bd991e03819b2ba9ca7aff7d1dfc4eb85a3399b749a"
+  },
+  "requirements.txt": {
+    "bytes": 186,
+    "sha256": "dea34c74d280b731229dbde35f27fc9ab5bdfe322366fc606a93fee1138e653a"
+  },
+  "VERIFICATION.md": {
+    "bytes": 3260,
+    "sha256": "774e3c581a491dff79741e28241758ce5637e46b8e55bfd94111e269ec45eaa6"
+  },
+  "api/coverage.py": {
+    "bytes": 9324,
+    "sha256": "2ebf8229d48d6e105dc8140dd3e777ec5df3a60bc2f50622de55cb06bab97ea9"
+  },
+  "api/growth.py": {
+    "bytes": 3034,
+    "sha256": "cc9566705f92406ceb03a95e8b531087dbd04f38a7830b2e261ab482d7466c19"
+  },
+  "api/main.py": {
+    "bytes": 5769,
+    "sha256": "f0bfbec30ff88b9619dc75d6a913073cc92548ce33dc7d8fbc24c2b030f4b1b5"
+  },
+  "api/__init__.py": {
+    "bytes": 1,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+  },
+  "models/best_model_tuned.pt": {
+    "bytes": 97980885,
+    "sha256": "6cd686722b70aae0290175125848f317d75e593b0f7b93ddefb0d202fe47fefc"
+  },
+  "models/growthform_effnet_filtered_highacc.keras": {
+    "bytes": 29072841,
+    "sha256": "e8a1bc9033e9f0eada2aaf756abc15a73adf1e60ab082cf38b39f1314290e077"
+  },
+  "site-integration/install.mjs": {
+    "bytes": 9317,
+    "sha256": "da5ffd4e6429fa42576315920c7b822c8524f43783e8fbfb3e299d1244d0f8d1"
+  },
+  "site-integration/test-connection.mjs": {
+    "bytes": 3624,
+    "sha256": "8769367cca6986c622a7d741136014fc0b109aa2c2731d3bd65e69b6c6acdf48"
+  },
+  "tests/test_api.py": {
+    "bytes": 2967,
+    "sha256": "6025853ac2dfde902332aeeebc345dc79155b68c6ccea23486bc7a1a785e0399"
+  },
+  "site-integration/app/lib/photo-analysis-proxy.ts": {
+    "bytes": 2769,
+    "sha256": "5265fa5512ee9d95fd7c8e87ca4b96ec5bb3265e61930ebf46c22f68e2441f81"
+  },
+  "site-integration/app/lib/photo-analysis.ts": {
+    "bytes": 2205,
+    "sha256": "b14f73cb4817f9ac59d4464d69b87f1dbb0b3db3948ea84314617992beeced15"
+  }
+}
